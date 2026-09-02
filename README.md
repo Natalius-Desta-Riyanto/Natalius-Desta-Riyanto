@@ -29,7 +29,7 @@ I enjoy turning mathematical reasoning into software that is useful, understanda
 | --- | --- | --- |
 | [Portfolio](https://natalius-desta-riyanto.github.io/portfolio/) | Multilingual personal portfolio with responsive, animated light and dark experiences. | HTML, CSS, JavaScript |
 | [Credit Risk Analytics](https://desta-data-analytics.github.io/credit-risk-analytics/) | Explainable lending-portfolio analysis with reproducible data processing and statistical safeguards. | Python, pandas, Next.js, Statistics |
-| [Artha](https://artha-murex.vercel.app/) | Personal-finance workspace for accounts, transactions, budgets, analytics, and data portability. | React, TypeScript, Supabase, Vercel |
+| [Sakuara](https://sakuara.vercel.app/) | Personal-finance workspace for accounts, transactions, budgets, analytics, and data portability. | React, TypeScript, Supabase, Vercel |
 | [Sentra](https://github.com/Natalius-Desta-Riyanto/Sentra) | Secure incident-reporting prototype with encryption, role-based workflows, evidence handling, and audit trails. | Next.js, TypeScript, Cryptography |
 
 ## Tools I work with
