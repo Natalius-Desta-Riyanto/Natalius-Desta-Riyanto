@@ -30,8 +30,6 @@ I enjoy turning mathematical reasoning into software that is useful, understanda
 | [Portfolio](https://natalius-desta-riyanto.github.io/portfolio/) | Multilingual personal portfolio with responsive, animated light and dark experiences. | HTML, CSS, JavaScript |
 | [Credit Risk Analytics](https://desta-data-analytics.github.io/credit-risk-analytics/) | Explainable lending-portfolio analysis with reproducible data processing and statistical safeguards. | Python, pandas, Next.js, Statistics |
 | [Sakuara](https://sakuara.vercel.app/) | Personal-finance workspace for accounts, transactions, budgets, analytics, and data portability. | React, TypeScript, Supabase, Vercel |
-| [Selunoa](https://selunoa.vercel.app/) | Productivity and knowledge workspace for projects, tasks, documents, and unified schedules. | React, TypeScript, Supabase, Vercel |
-| [Kanopi](https://kanopihub.vercel.app/) | Private personal application hub for launching independent tools and viewing unified activity. | React, TypeScript, Supabase, Vercel |
 
 ## Tools I work with
 
