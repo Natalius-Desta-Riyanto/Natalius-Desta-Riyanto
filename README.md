@@ -27,7 +27,7 @@ I enjoy turning mathematical reasoning into software that is useful, understanda
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Portfolio](https://natalius-desta-riyanto.github.io/portfolio/) | Multilingual personal portfolio with responsive, animated light and dark experiences. | HTML, CSS, JavaScript |
+| [Portfolio](https://natalius-desta-riyanto.github.io/portfolio/) | Five-language developer portfolio with responsive layouts, project slides, light/dark themes, and CV download. | Astro, TypeScript, CSS, GitHub Pages |
 | [Credit Risk Analytics](https://desta-data-analytics.github.io/credit-risk-analytics/) | Explainable lending-portfolio analysis with reproducible data processing and statistical safeguards. | Python, pandas, Next.js, Statistics |
 | [Sakuara](https://sakuara.vercel.app/) | Personal-finance workspace for accounts, transactions, budgets, analytics, and data portability. | React, TypeScript, Supabase, Vercel |
 
