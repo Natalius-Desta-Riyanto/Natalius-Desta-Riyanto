@@ -17,7 +17,7 @@ Mathematics student at Universitas Indonesia. I work across interfaces, APIs, da
 
 Padun and LendSight are portfolio projects with private source repositories. Their public case studies explain the implementation; live access may require sign-in. Padun uses synthetic transactions. LendSight's observed data does not support delinquency metrics; those examples use a labelled simulation.
 
-Additional work: [Sakuara](https://natalius-desta-riyanto.github.io/portfolio/work/sakuara/), a multi-account and multi-currency personal finance application built with React, TypeScript, Supabase, and PostgreSQL. Its source remains private.
+Additional work: [Sakuara](https://natalius-desta-riyanto.github.io/portfolio/work/sakuara/), a multi-account and multi-currency personal finance application built with React, TypeScript, Supabase, and PostgreSQL. Its source remains private. [Try the isolated demo](https://natalius-desta-riyanto.github.io/portfolio/demo/sakuara/) with fictional browser-local data; it does not connect to the personal database.
 
 ## Main tools
 
