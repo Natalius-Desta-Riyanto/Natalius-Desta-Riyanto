@@ -1,52 +1,32 @@
-<div align="center">
-
 # Natalius Desta Riyanto
 
-### Mathematics × Software Engineering × Data
+**Full-Stack Developer building data-intensive applications.**
 
-Final-year Mathematics student at Universitas Indonesia and Full-Stack Developer,<br/>
-building practical software with analytical thinking, data, and AI.
+Mathematics student at Universitas Indonesia. I work across interfaces, APIs, databases, and analytical pipelines, with an interest in clear workflows and reliable data handling.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0969DA?style=for-the-badge&logo=githubpages&logoColor=white)](https://natalius-desta-riyanto.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalius-desta-riyanto/)
-
-</div>
-
----
-
-## About me
-
-I enjoy turning mathematical reasoning into software that is useful, understandable, and reliable. My work spans full-stack development, data analytics, AI-assisted systems, and mathematics education.
-
-- Studying **Mathematics at Universitas Indonesia**
-- Working across **frontend, backend, APIs, databases, and automation**
-- Interested in **data analytics, responsible AI, and applied problem-solving**
-- Comfortable translating complex ideas into clear technical solutions
+[Portfolio](https://natalius-desta-riyanto.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/natalius-desta-riyanto/)
 
 ## Selected work
 
-| Project | What it does | Stack |
+| Project | What to look at | Explore |
 | --- | --- | --- |
-| [Portfolio](https://natalius-desta-riyanto.github.io/portfolio/) | Five-language developer portfolio with responsive layouts, project slides, light/dark themes, and CV download. | Astro, TypeScript, CSS, GitHub Pages |
-| [Credit Risk Analytics](https://desta-data-analytics.github.io/credit-risk-analytics/) | Explainable lending-portfolio analysis with reproducible data processing and statistical safeguards. | Python, pandas, Next.js, Statistics |
-| [Sakuara](https://sakuara.vercel.app/) | Personal-finance workspace for accounts, transactions, budgets, analytics, and data portability. | React, TypeScript, Supabase, Vercel |
+| **Padun** | Transaction reconciliation: immutable CSV sources, exact matching, exception investigation, and independent analyst/reviewer decisions. Next.js, TypeScript, PostgreSQL. | [Case study](https://natalius-desta-riyanto.github.io/portfolio/work/padun/) · [Live app](https://padun-desta.vercel.app/) |
+| **LendSight** | Reproducible loan-portfolio analysis and persistent dataset dashboards. Observed World Bank data stays separate from synthetic delinquency examples. Python, SQL, FastAPI, React. | [Case study](https://natalius-desta-riyanto.github.io/portfolio/work/lendsight/) · [Demo](https://lendsight-plum.vercel.app/) |
+| **Credit Risk Analytics** | Applicant-level data contracts, descriptive segment comparisons, Wilson intervals, and a public Python pipeline. | [Source](https://github.com/Desta-data-analytics/credit-risk-analytics) · [Dashboard](https://desta-data-analytics.github.io/credit-risk-analytics/) |
+| **Stockwise** | Five interpretable forecasting baselines, temporal evaluation, and an editable inventory plan with explicit assumptions. | [Source](https://github.com/Desta-data-analytics/stockwise) · [Demo](https://desta-data-analytics.github.io/stockwise/) |
 
-## Tools I work with
+Padun and LendSight are portfolio projects with private source repositories. Their public case studies explain the implementation; live access may require sign-in. Padun uses synthetic transactions. LendSight's observed data does not support delinquency metrics; those examples use a labelled simulation.
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=3FCF8E" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+Additional work: [Sakuara](https://natalius-desta-riyanto.github.io/portfolio/work/sakuara/), a multi-account and multi-currency personal finance application built with React, TypeScript, Supabase, and PostgreSQL. Its source remains private.
 
-## Current direction
+## Main tools
 
-I am deepening my work in full-stack product development, data-intensive applications, AI integration, and mathematically grounded engineering.
+TypeScript · React · Next.js · Python · SQL · PostgreSQL · pandas · FastAPI
 
-> Open to thoughtful collaborations and opportunities in software, data, AI, and education.
+## Repository groups
+
+- [Desta Platforms](https://github.com/Desta-Platform): practical software products and operational tools, including Padun and Sakuara.
+- [Desta Data Analytics](https://github.com/Desta-data-analytics): LendSight, Credit Risk Analytics, Stockwise, and academic data projects.
+- [Desta Software Labs](https://github.com/Desta-Software-Labs): EVO-Brain, AI applications, and experiments.
+
+This [portfolio website source](https://github.com/Natalius-Desta-Riyanto/portfolio) and this profile live under my personal account.
